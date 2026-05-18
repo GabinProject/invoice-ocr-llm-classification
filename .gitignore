@@ -1,0 +1,13 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers de configuration et secrets
+*.env
+*.json  # Ignore les résultats (results.json) et tes clés d'API Google Cloud si elles sont là
+
+# Dossiers temporaires et données locales
+temp_images/
+__pycache__/
+.ipynb_checkpoints/
