@@ -2,7 +2,7 @@
 .venv/
 venv/
 env/
-
+.venv
 # Fichiers de configuration et secrets
 *.env
 *.json  # Ignore les résultats (results.json) et tes clés d'API Google Cloud si elles sont là
